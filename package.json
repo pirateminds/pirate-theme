@@ -1,0 +1,35 @@
+{
+	"name": "pirate-theme",
+	"displayName": "Pirate Theme",
+	"description": "A pirate, dark clean and elegant syntax theme",
+	"version": "1.1.3",
+	"publisher": "pirateminds.com",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wegorich/pirate-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/wegorich/pirate-theme/issues"
+	},
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pirate-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pirate-Theme-Darker.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "42977ea4-c8d3-4b64-8bed-537a5a72bd09",
+		"publisherId": "60bf4503-0027-433b-a7e0-29c0c7698894",
+		"publisherDisplayName": "zouhir"
+	}
+}
