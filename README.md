@@ -13,9 +13,8 @@ Full instalation is possible via the [Settings Sync](https://marketplace.visuals
 
 Steps to full installation:
 1. Install `Settings Sync` extension
-2. Follow the guide connect the `github.com` account
 3. Press **Shift + Alt + D** it will ask your GitHub Gist ID
-3. Loads our public settings using: `9abcd935716985f147ec0b5085762281` gist id
+3. Loads our public settings using: `e993acbc37cb2d5cc665a5ad57a7ac59` gist id
 4. Enjoy &#10084;
 
 ## <img src='https://code.visualstudio.com/images/favicon.ico' width=20 height=20 /> HTML Preview
