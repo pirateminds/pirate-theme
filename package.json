@@ -2,7 +2,7 @@
 	"name": "pirate-theme",
 	"displayName": "Pirate Theme",
 	"description": "A pirate, dark clean and elegant syntax theme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "pirateminds",
 	"engines": {
 		"vscode": "^1.5.0"
